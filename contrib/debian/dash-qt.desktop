@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=BigDataKing
+Comment=BigDataKing P2P Cryptocurrency
+Comment[fr]=BigDataKing, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=BigDataKing, eşten eşe kriptografik sanal para birimi
+Exec=BigDataKing-qt %u
+Terminal=false
+Type=Application
+Icon=dash128
+MimeType=x-scheme-handler/BigDataKing;
+Categories=Office;Finance;
